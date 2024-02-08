@@ -72,7 +72,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFf6NeshX0AEHPXg.jpg&tbnid=bdWREcaIwsL5jM&vet=12ahUKEwi607vk05yEAxXo2ckDHfl9DLAQMygVegQIARBj..i&imgrefurl=https%3A%2F%2Ftwitter.com%2FTheMemesArchive%2Fstatus%2F1584859688092389376&docid=IG0t6-2sO4XarM&w=360&h=360&q=dog%20with%20tongue%20out&ved=2ahUKEwi607vk05yEAxXo2ckDHfl9DLAQMygVegQIARBj
+avatar:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbW4Sw2EPhnYx5awuxx7MP587G2KpFWExoQ&usqp=CAU 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
